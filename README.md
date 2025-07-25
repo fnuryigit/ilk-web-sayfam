@@ -16,8 +16,7 @@ Bu ödevde HTML5 kullanarak kendimizi tanıtan basit bir web sayfası oluşturdu
 ## Proje Görseli
 ![Ekran Resmi](images/Ekran_Resmi.png)
 
-=======
-![Ekran Resmi](images/Ekran_Resmi.png)
+
 
 
 >>>>>>> d17e9df (README ve görsel dosyaları eklendi)
